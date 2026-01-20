@@ -1,3 +1,4 @@
+
 // ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables
 
 import 'package:flutter/cupertino.dart';
@@ -6,7 +7,7 @@ import 'package:flutter/widgets.dart';
 import 'components/my_button.dart';
 import 'package:math_expressions/math_expressions.dart';
 
-// trial comment 2w
+// trial comment 2wj
 
 void main() {
   runApp(
@@ -283,6 +284,7 @@ class _CalculatorState extends State<Calculator> {
     );
   }
 }
+
 
 
 
