@@ -8,7 +8,6 @@ import 'components/my_button.dart';
 import 'package:math_expressions/math_expressions.dart';
 
 // trial comment gyxgxgddddfcgccyv
-zzddrvj
 void main() {
   runApp(
     MaterialApp(
