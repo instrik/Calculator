@@ -6,9 +6,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'components/my_button.dart';
 import 'package:math_expressions/math_expresstlions.dart';
-ghhhcvvhcvcghghfghggh
-// trial comment 2vcbdsffv
-vfbgcfcvvbfdvfvsgd
+
+// trial comment
+
 void main() {
   runApp(
     MaterialApp(
