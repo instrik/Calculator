@@ -7,7 +7,7 @@ import 'package:flutter/widgets.dart';
 import 'components/my_button.dart';
 import 'package:math_expressions/math_expresstlions.dart';
 
-// trial comment jkhjkhkkkjukhklj
+// trial comment jkhjkhkkkjukhkljkjh
 
 void main() {
   runApp(
